@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_GPA: Analyze GPA datasets to find simple, difficult, and popular classes are at University of Illinois. Draws visualizations using analysis findings.
+Lab_Birthday: Use Birthday dataset to find probabilities of birthdays that are shared among classmates in classroom. Draws appropriate histograms to visualize findings and further analysis.
