@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Simpsons_Paradox: Finding simpson's paradox through analysis of dataset and writing conditionals for dataframe
+Lab_Plots: Using datasets to find basic statistics relating to mean, mode, range, standard deviation, etc. Creating plots to visualize the quantitative data.
