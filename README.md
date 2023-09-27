@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Pandas: Explores the basic usage of the pandas library
+Lab_Expiremental_Design: Uses Hello Dataset and analyzes results of the dataset and explore techniques to do experimental design in python (Treatment and Control Groups)
