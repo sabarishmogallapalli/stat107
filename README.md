@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Plots: Using datasets to find basic statistics relating to mean, mode, range, standard deviation, etc. Creating plots to visualize the quantitative data.
+Lab_GPA: Analyze GPA datasets to find simple, difficult, and popular classes are at University of Illinois. Draws visualizations using analysis findings.
