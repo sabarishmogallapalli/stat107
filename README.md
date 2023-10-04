@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Justice: Used data science techniques like simulations, storing to data frames, visualizing data with graphs, probability, and analyzing results
+Lab_Random_Variable: Catch Pokémon in simulations, observing random variables and the central limit theorem. 
