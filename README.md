@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-For next steps, please refer to the instructions provided by your course.
+Lab_Similarity: Analyze Hello Survey dataset to find similarities in answers between members in class.
