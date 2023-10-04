@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Simpsons_Paradox: Finding simpson's paradox through analysis of dataset and writing conditionals for dataframe
+Lab_Justice: Used data science techniques like simulations, storing to data frames, visualizing data with graphs, probability, and analyzing results
