@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-For next steps, please refer to the instructions provided by your course.
+Lab_Kmeans_Clustering: Use Hello Dataset to practice Kmeans clustering.
