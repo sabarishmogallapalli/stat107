@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Regression: Exploratory Data Analysis and Simple Linear Regression to see if we can predict the weight of cereals.
+Microproject 1: Exploratory Data Analysis (EDA) techniques and the `groupby` function to find various statistics about the current legislators in the United States Congress.
