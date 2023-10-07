@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Lab_Random_Variable: Catch Pokémon in simulations, observing random variables and the central limit theorem. 
+Lab_Regression: Exploratory Data Analysis and Simple Linear Regression to see if we can predict the weight of cereals.
