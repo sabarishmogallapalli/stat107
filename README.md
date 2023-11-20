@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Microproject 2: Analyzing football game data and visualizing the findings.
+Project Mosaic: Create an image mosaic out of any image you have made up entirely of other images.
