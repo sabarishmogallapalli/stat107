@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-For next steps, please refer to the instructions provided by your course.
+Conducting hypothesis tests on the hello dataset.
