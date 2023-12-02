@@ -2,4 +2,4 @@
 
 GitHub username at initialization time: sabarishmogallapalli
 
-Conducting hypothesis tests on the hello dataset.
+Hypothesis Tests: Conducting hypothesis tests on the hello dataset.
