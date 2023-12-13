@@ -19,3 +19,7 @@ Feel free to look around my repository to see my projects.
 [Lab 11: Lab Kmeans Clustering](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-lab-11)  
 [Lab 12: Hypothesis Tests](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-lab-12)  
 [Lab 13: Lab Regression](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-lab-13)
+[Microproject 1](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-microproject-1)
+[Microproject 2](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-microproject-2)
+[Project Mosaic](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-project-mosaic)
+[Project 2](https://github.com/sabarishmogallapalli/stat107/tree/sabarishmogallapalli-project-2)
