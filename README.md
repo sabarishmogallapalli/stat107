@@ -1,7 +1,3 @@
-# STAT 107 (fa22) repo for NetID: sm108
-
-GitHub username at initialization time: sabarishmogallapalli
-
 # Welcome to my Repository for STATISTICS 107: Introduction to Data Science
 
 Feel free to look around my repository to see my projects.
