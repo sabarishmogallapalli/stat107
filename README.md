@@ -1,4 +1,4 @@
-# Welcome to my Repository for STATISTICS 107: Introduction to Data Science
+# Welcome to my Repository for STATISTICS 107: Introduction to Data Science!
 
 Feel free to look around my repository to see my projects.
 
